@@ -15,7 +15,7 @@
 ### 🚀 About Me
 
 * 💻 **Focus:** Leveling up in Algorithms and core Python programming.
-* 🤖 **Roadmap:** Laying the mathematical and programming groundwork to step into AI & ML
+* 🤖 **Roadmap:** Laying the mathematical and programming groundwork to step into AI & ML.
 * 🎯 **Goals:** Writing clean code, learning systems concepts, and collaborating on open-source projects.
 * ⚡ **Offline:** Playing guitar and drawing.
 
@@ -40,15 +40,15 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/arosha-chamika-7b139925a/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/ar05ha" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/__.a.r.o.s.h.a.__" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://discordapp.com/users/a.r.o.s.h.a_54571" title="Discord: a.r.o.s.h.a_54571" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  <a href="https://fb.com/ar05ha" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://discordapp.com/users/a.r.o.s.h.a_54571" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
